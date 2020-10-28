@@ -1,14 +1,14 @@
 {
   "data": [
-    { "x": "Wed Jan 01 2020 00:00:00 GMT-0600 (Central Standard Time)", y: 51 },
-    { "x": "Sat Feb 01 2020 00:00:00 GMT-0600 (Central Standard Time)", y: 14 },
-    { "x": "Wed Apr 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 12 },
-    { "x": "Fri May 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 52 },
-    { "x": "Mon Jun 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 92 },
-    { "x": "Wed Jul 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 25 },
-    { "x": "Sat Aug 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 32 },
-    { "x": "Tue Sep 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 19 },
-    { "x": "Thu Oct 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 23 },
-    { "x": "Sun Nov 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", y: 44 },
+    { "x": "Wed Jan 01 2020 00:00:00 GMT-0600 (Central Standard Time)", "y": 51 },
+    { "x": "Sat Feb 01 2020 00:00:00 GMT-0600 (Central Standard Time)", "y": 14 },
+    { "x": "Wed Apr 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 12 },
+    { "x": "Fri May 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 52 },
+    { "x": "Mon Jun 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 92 },
+    { "x": "Wed Jul 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 25 },
+    { "x": "Sat Aug 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 32 },
+    { "x": "Tue Sep 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 19 },
+    { "x": "Thu Oct 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 23 },
+    { "x": "Sun Nov 01 2020 00:00:00 GMT-0500 (Central Daylight Time)", "y": 44 },
   ]
 }
